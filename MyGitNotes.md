@@ -2,11 +2,11 @@
 
 1. Version Control
 
-**Version Control System (VCS)** - Toll that manages different versions of source code
-**Source Code Manager (SCM)** - Another name for a VCS
+* **Version Control System (VCS)** - Toll that manages different versions of source code
+* **Source Code Manager (SCM)** - Another name for a VCS
 
-**Commit** - Save the sate of your project in Git
-**Repository / Repo** - Directory containing project work and files that communicate with Git. *Repos can exist locally on your computer or remotely on another computer.
+* **Commit** - Save the sate of your project in Git
+* **Repository / Repo** - Directory containing project work and files that communicate with Git. *Repos can exist locally on your computer or remotely on another computer.
 **Working Directory** - Files on your computer's filing system
 **Staging Area / Index or Index** - A file in the Git directory that stores info on what will go into your next Commit.
 **Checkout** - Content from the repo is copied to the working directory
