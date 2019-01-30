@@ -21,7 +21,7 @@
 - Create new directory - mkdir
 - Change directories - cd
 - Remove files and directories - rm
-- Print Working directory (find out what you are woring on) - pwd
+- Print Working directory (find out what you are working on) - pwd
 
 
 3. Cloning a repo
@@ -36,7 +36,7 @@
 
 5. Track changes
 
-- Find out when changes are made and by whome - $ git log
+- Find out when changes are made and by whom - $ git log
   By default, this command displays:
 
       the SHA
