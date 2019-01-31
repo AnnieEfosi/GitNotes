@@ -1,6 +1,6 @@
 # Annie's Personal Help Notes for Git
 
-1. Version Control
+## Version Control
 
 * **Version Control System (VCS)** - Toll that manages different versions of source code
 * **Source Code Manager (SCM)** - Another name for a VCS
@@ -14,7 +14,7 @@
 * **Branch** - New line of development that diverges from the main development.  
 
 
-2. Creating a Repo from Scratch
+## Creating a Repo from Scratch
 
 - Create a repo from scratch - $ git init 
 - list files and directories - ls
@@ -24,17 +24,17 @@
 - Print Working directory (find out what you are working on) - pwd
 
 
-3. Cloning a repo
+## Cloning a repo
 
 - Clone a repo - $ git clone <path-to-repository-to-clone>
 - By default the clone is created with the same name but it can be re-named
 
 
-4. Status Update
+## Status Update
 
 - Find out the status of a Commit - $ git status
 
-5. Track changes
+## Track changes
 
 - Find out when changes are made and by whom - $ git log
   By default, this command displays:
@@ -61,7 +61,7 @@
 
 
 
-Advanced Stuff
+### Advanced Stuff
 
 - Customising Git - https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
 
