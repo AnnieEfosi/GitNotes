@@ -2,7 +2,7 @@
 
 ## Version Control
 
-* **Version Control System (VCS)** - Toll that manages different versions of source code
+* **Version Control System (VCS)** - Tool that manages different versions of source code
 * **Source Code Manager (SCM)** - Another name for a VCS
 
 * **Commit** - Save the sate of your project in Git
